@@ -1,0 +1,16 @@
+.pay-btn{
+    height: 28px;
+    width: 110px;
+    background-color: orange;
+    color: #3A4256;
+    font-size: 13px;
+    font-weight: 700;
+    border: none;
+    outline: none;
+    border-radius: 6px;
+    transition: 1s;   
+}
+.pay-btn:hover{
+   color: white;
+   background-color: rgb(38, 143, 38);
+}

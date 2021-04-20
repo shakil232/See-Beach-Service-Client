@@ -1,0 +1,30 @@
+.orderList-head{
+    font-weight: 500;
+    color: rgb(224, 16, 197);
+    background-color: whitesmoke;
+}
+.orderList{
+    background-color: rgb(247, 232, 226);
+    height: 100%;
+}
+.table-detail-bottom th{
+    font-size: 13px;
+    font-weight: 500;
+    color: dimgray;
+}
+.table-detail-top th{
+    font-size: 15px;
+    font-weight: 600;
+    color: rgb(235, 46, 187);
+}
+.status-click{
+    text-align: center;
+    width: 100px;
+    font-size: 12px;
+    font-weight: 600;
+    color: whitesmoke;
+    border: none;
+    outline: none;
+    background-color: rgb(233, 40, 175);
+    height: 30px;
+}

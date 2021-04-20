@@ -1,0 +1,37 @@
+.services-container:hover{
+    box-shadow: 5px 5px 10px lightskyblue;
+}
+.services-container img{
+    width: 40%;
+    height: 40%;
+    margin-bottom: 5px;
+}
+.services-container p{
+    font-weight: 500;
+    color: orangered;
+}
+.service-text{
+    font-size: 10px;
+    font-weight: 600;
+    color: dimgray;
+     
+}
+.service-name{
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(118, 38, 197);
+     
+}
+
+.book-btn{
+        height: 28px;
+        width: 110px;
+        background: linear-gradient(to left, rgb(235, 70, 10), rgb(248, 186, 164));
+        color: #3A4256;
+        font-size: 13px;
+        font-weight: 700;
+        border: none;
+        outline: none;
+        border-radius: 6px;
+        transition: 1s;   
+}

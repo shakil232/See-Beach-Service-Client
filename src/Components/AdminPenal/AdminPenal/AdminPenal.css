@@ -1,0 +1,41 @@
+.admin-side-bar{
+    background-image: linear-gradient( to top , rgb(172, 72, 238), rgb(241, 58, 232));
+    height: 550px;
+}
+.home h5 {
+    color: rgb(241, 245, 244);
+    font-weight: 700;
+}
+.admin-icons{
+    color: white;
+    font-size: 15px;
+    margin-right: 3px;
+}
+
+.side-compo-name p{
+    font-size: 12px;
+    font-weight: 600;
+    color: white;
+    text-align: justify;
+    padding: 5px;
+    transition: 1s;
+}
+.side-compo-name p:hover{
+    background-color: rgb(94, 124, 94);
+    color: goldenrod;
+}
+.home{
+    border-bottom: 1px solid lightgray;
+}
+.secret p{
+    font-size: 12px;
+    font-weight: 600;
+    color: white;
+    text-align: justify;
+    padding: 5px;
+    transition: 1s;
+}
+.secret p:hover{
+    background-color: rgb(94, 124, 94);
+    color: goldenrod;
+}

@@ -1,0 +1,13 @@
+.gallery .card{
+    border-color: transparent;
+}
+
+.gallery .card .card-footer{
+    background: transparent;
+    border: 0;
+}
+
+.gallery-test h3{
+    color:tomato;
+    font-weight: 600;
+}

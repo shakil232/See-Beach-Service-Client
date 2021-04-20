@@ -1,0 +1,33 @@
+.label{
+    font-size: 15px;
+    font-weight: 500;
+    color: rgb(243, 28, 128);
+}
+.submit{
+    height: 40px;
+    width: 100px;
+    color: white;
+    background-color: rgb(233, 8, 158);
+    font-size: 13px;
+    font-weight: 600;
+    border: none;
+    outline: none;
+    border-radius: 6px;
+}
+.makeAdmin{
+    background-color: whitesmoke;
+    box-shadow: 5px 5px 8px rgb(245, 196, 196);
+    height: 150px;
+}
+.input{
+    width: 300px;
+    border: 1px solid lightgrey;
+    outline: none;
+    height: 35px;
+    border-radius: 5px;
+    font-size: 12px;
+    font-weight: 500;
+    color: dimgray;
+    padding: 5px;
+    margin: 5px;
+}

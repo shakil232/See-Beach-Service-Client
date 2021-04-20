@@ -1,0 +1,21 @@
+/* .testimonials .container{
+    background-image: url(../../../images/quote.png);
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-size: 150px;
+} */
+.testimonials .card{
+    border-color: transparent;
+}
+
+.testimonials .card .card-footer{
+    background: transparent;
+    border: 0;
+}
+.header-test h5{
+    color: rgb(168, 18, 18);
+    font-weight: 600;
+}
+.header-test h3{
+    color: rgb(226, 43, 250);
+}

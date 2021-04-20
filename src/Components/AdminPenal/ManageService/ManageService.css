@@ -1,0 +1,21 @@
+.manage{
+    background-color: rgb(217, 245, 217);
+    height: 100%;
+}
+.manage-head{
+    font-weight: 500;
+    color: rgb(224, 16, 197);
+    background-color: whitesmoke;
+}
+.edit-icon{
+    color: green;
+    font-size: 12px;
+    margin-right: 5px;
+}
+.delete-icon{
+  color: red;
+  font-size: 12px;
+}
+.manage-img{
+    width: 10%;
+}

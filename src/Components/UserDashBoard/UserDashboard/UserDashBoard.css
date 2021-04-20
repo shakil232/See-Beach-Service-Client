@@ -1,0 +1,26 @@
+.user-side-bar{
+    background-image: linear-gradient( to top , rgb(92, 27, 153), rgb(230, 82, 24));
+    height: 515px;
+}
+.user-side-bar h5 {
+    color: rgb(238, 34, 143);
+    font-weight: 700;
+}
+.user-icons{
+    color: white;
+    font-size: 15px;
+    margin-right: 3px;
+}
+
+.side-compo-name p{
+    font-size: 12px;
+    font-weight: 600;
+    color: white;
+    text-align: justify;
+    padding: 5px;
+    transition: 1s;
+}
+.side-compo-name p:hover{
+    background-color: rgb(94, 124, 94);
+    color: goldenrod;
+}

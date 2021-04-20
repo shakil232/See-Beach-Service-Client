@@ -1,0 +1,17 @@
+.status-click{
+    text-align: center;
+    width: 100px;
+    font-size: 12px;
+    font-weight: 600;
+    color: whitesmoke;
+    border: none;
+    outline: none;
+    background-color: rgb(233, 40, 175);
+    height: 30px;
+}
+.table-detail-bottom th{
+    font-size: 13px;
+    font-weight: 500;
+    color: dimgray;
+    text-align: justify;
+}

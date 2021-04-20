@@ -1,0 +1,26 @@
+.header-container{
+    height: 550px;
+}
+.header-right h2{
+    color: rgb(245, 14, 110);
+    font-weight: 700;  
+}
+.header-right-text{
+    font-size: 13px;
+    font-weight: 500;
+    color: dimgray;
+}
+
+.header-btn{
+    height: 40px;
+    width: 200px;
+    background: linear-gradient(to left, rgb(235, 70, 10), rgb(248, 186, 164));
+    color: white;
+    font-size: 13px;
+    font-weight: 700;
+    border: none;
+    outline: none;
+    border-radius: 6px;
+}
+
+
