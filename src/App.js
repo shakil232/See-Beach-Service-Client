@@ -14,6 +14,8 @@ import Contact from './Components/Home/Menu-Area/Contact/Contact'
 import AdminPenal from './Components/AdminPenal/AdminPenal/AdminPenal';
 import PrivateRoute from './Components/PrivateRoute/PrivateRoute'
 import Order from './Components/UserDashBoard/Order/Order';
+import OrderList from './Components/UserDashBoard/OrderList/OrderList';
+import Review from './Components/UserDashBoard/Review/Review';
 
 export const UserContext = createContext();
 
@@ -39,9 +41,21 @@ function App() {
           <PrivateRoute path="/userDashboard/:BookId">
             <UserDashBoard/>
           </PrivateRoute>
+
           <Route path="/about">
             <About/>
           </Route>
+
+          <Route path="/order">
+            <Order/>
+          </Route>
+          <Route path="/review">
+            <Review/>
+          </Route>
+          <Route path="/orderList">
+            <OrderList/>
+          </Route>
+
           <Route path="/contact">
             <Contact/>
           </Route>

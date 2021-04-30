@@ -8,7 +8,7 @@ const NavBar = () => {
     const [user, setUser] = useContext(UserContext);
     return (
         <Navbar className="mt-2" expand="lg">
-            <h3 className="nav-head ml-3 ">  Sea-Skiing </h3>
+            <h3 className="nav-head ml-3 ">  Beach-Service </h3>
             
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
@@ -16,7 +16,7 @@ const NavBar = () => {
                     <Link className="ml-5  nav-menu" to="/home">Home</Link>
                     <Link className="ml-5  nav-menu" to="/about">About Us</Link>
                     <Link className="ml-5  nav-menu" to="/admin">Admin</Link>
-                    <Link className="ml-5  nav-menu" to="/userDashboard">User Review</Link>
+                    {/* <Link className="ml-5  nav-menu" to="/userDashboard">User Review</Link> */}
                     <Link className="ml-5  nav-menu" to="/contact">Contact Us </Link>
 
                 </Nav>
